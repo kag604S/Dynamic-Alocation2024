@@ -1,0 +1,3 @@
+C:/dynamicznaaa/cmake-build-debug/CMakeFiles/dynamicznaaa.dir
+C:/dynamicznaaa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/dynamicznaaa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
